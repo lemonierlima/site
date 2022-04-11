@@ -1,0 +1,32 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #ABB8C3;
+    /* 
+    background-image: url('../images/Site01.svg');
+    background-size: cover;  
+    */
+
+  }
+
+  .container {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -3em;
+  }
+
+  .Img{
+    margin-top: -3em;
+  }
+
+  * {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .main-container {
+    min-height: 70vh;
+  }
