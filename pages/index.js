@@ -11,13 +11,6 @@ function IndexPage(props) {
   return (
     <> 
       <div class="container-fluid">
-      <div class="row">
-          <div class="col-12 text-center align-items-start">
-            <h1 className={styles.title}>
-              Lemonier<span> Lima</span>
-            </h1>
-          </div>
-        </div>
         <div class="row">
           <div class="col-12 text-center align-items-start">
             <Card src={logo} alt="logo"/>
