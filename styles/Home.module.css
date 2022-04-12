@@ -11,9 +11,6 @@
   font-size: 4em;
   /* margin-right: 0.4em; */
   font-family: 'Brush Script MT';
-  /* margin-top:8px; */
-  position: absolute;
-  z-index: 1;
 }
 
 .title span {
