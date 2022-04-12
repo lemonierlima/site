@@ -2,10 +2,9 @@ import styles from '../styles/Footer.module.css'
 
 export default function Footer() {
   return (
-    <footer className={styles.footer}>
-      <p>
-        <span>LL</span> &copy; 2021
-      </p>
-    </footer>
+  <nav className={styles.footer} 
+    class="navbar sticlassName={styles.footer} cky-top navbar-light bg-light">
+    <span className={styles.span}>LL</span> &copy; 2021 
+  </nav>
   )
 }

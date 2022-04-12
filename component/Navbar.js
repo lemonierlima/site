@@ -9,11 +9,11 @@ export default function Navbar() {
     <nav className={styles.navbar}>
       <div className={styles.logo}>
         <Image
-          src="/images/favicon.ico"
+          src="/images/photo1649723204.jpeg"
           width="30"
           height="30"
+          className={styles.logoNav}
         />
-        <h1>Lemonier Lima</h1>
       </div>
       <ul className={styles.link_items}>
         <li>

@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0.3125em 1.2em;
-    margin-bottom: 4em;
+    /* margin-bottom: 4em; */
     background-color: #333;
     color: #fff;
   }
@@ -13,6 +13,9 @@
     justify-content: center;
     align-items: center;
   }
+  .logoNav{
+    border-radius: 15px;
+  }
   
   .logo h1 {
     margin-left: 0.5em;
@@ -21,6 +24,7 @@
   .link_items {
     display: flex;
     list-style: none;
+    margin-bottom: 0px;
   }
   
   .link_items li {
